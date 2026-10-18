@@ -1,6 +1,6 @@
 # Free Unreal Engine VFX
 
-Free realtime VFX for Unreal Engine by **Vefects**.
+22 free realtime VFX packs for Unreal Engine by **Vefects**.
 
 ## Download
 
@@ -27,8 +27,32 @@ every engine version. Use a copy when converting a project to a newer engine.
 
 ## Included packs
 
-See `PACKS.csv` in the release for the complete pack list, project versions and
-archive names. Each pack retains its original Unreal project and asset paths.
+All 22 supplied project descriptors specify **Unreal Engine 4.27**.
+
+- Anime Star VFX
+- Bubbles VFX
+- Candle VFX
+- Distortion VFX
+- Easy Censor VFX
+- Easy Impact Frames
+- Easy Shockwaves VFX
+- Fire VFX
+- Free Blood VFX
+- Galaxy Shader
+- Invisible VFX
+- Linear Wipe VFX
+- Money VFX
+- Pee VFX
+- Poo VFX
+- Rainbow Lens Flare VFX
+- Render On Top
+- Stylized Fire VFX
+- Tentacles VFX
+- Trails VFX
+- Wind VFX
+- Zap VFX
+
+See [PACKS.csv](PACKS.csv) for archive names, versions and SHA-256 checksums.
 
 ## License
 
@@ -45,3 +69,4 @@ See the full license for conditions and exceptions.
 Explore more packs and bundles at [Vefects](https://vefects.com).
 
 Learn realtime VFX at [Clevender](https://clevender.com).
+
